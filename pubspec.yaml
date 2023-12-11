@@ -62,7 +62,7 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   assets : 
-    -assets/magnifier.png
+    - assets/magnifier.png
   #   - images/a_dot_ham.jpeg
   
 
